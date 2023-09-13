@@ -24,7 +24,7 @@
 		<jasypt.spring.boot.version>3.0.4</jasypt.spring.boot.version>
 		<springfox.boot.starter.version>3.0.0</springfox.boot.starter.version>
 		<license.maven.plugin.version>4.1</license.maven.plugin.version>
-	  	<guava.version>31.1-jre</guava.version>
+	  	<guava.version>32.0.0-jre</guava.version>
 	</properties>
 
 	<dependencies>
